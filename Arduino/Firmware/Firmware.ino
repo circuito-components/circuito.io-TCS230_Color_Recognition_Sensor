@@ -9,7 +9,11 @@
 // ======================= END OF INCLUDE BLOCK // =============================
 
 // =======================Pin Definitions - ONLY MODIFY PIN NUMBERS // =========
-
+#define TCS230_PIN_S1	2
+#define TCS230_PIN_S0	3
+#define TCS230_PIN_S3	4
+#define TCS230_PIN_S2	5
+#define TCS230_PIN_OUT	6
 
 // =======================Pin Definitions // ===================================
 
